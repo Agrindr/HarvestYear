@@ -1,0 +1,753 @@
+[
+    {
+        "timestamp": "2025-04-21 14:07:37",
+        "pest_count": 1,
+        "pest_details": [
+            "2"
+        ]
+    },
+    {
+        "timestamp": "2025-04-21 14:07:40",
+        "pest_count": 1,
+        "pest_details": [
+            "1"
+        ]
+    },
+    {
+        "timestamp": "2025-04-21 14:07:48",
+        "pest_count": 1,
+        "pest_details": [
+            "1"
+        ]
+    },
+    {
+        "timestamp": "2025-04-21 14:07:51",
+        "pest_count": 1,
+        "pest_details": [
+            "1"
+        ]
+    },
+    {
+        "timestamp": "2025-04-21 14:08:04",
+        "pest_count": 1,
+        "pest_details": [
+            "1"
+        ]
+    },
+    {
+        "timestamp": "2025-04-22 15:25:44",
+        "pest_count": 1,
+        "pest_details": [
+            "1"
+        ]
+    },
+    {
+        "timestamp": "2025-04-22 15:25:50",
+        "pest_count": 1,
+        "pest_details": [
+            "1"
+        ]
+    },
+    {
+        "timestamp": "2025-04-22 15:26:52",
+        "pest_count": 1,
+        "pest_details": [
+            "1"
+        ]
+    },
+    {
+        "timestamp": "2025-04-22 15:26:57",
+        "pest_count": 1,
+        "pest_details": [
+            "1"
+        ]
+    },
+    {
+        "timestamp": "2025-04-22 15:27:00",
+        "pest_count": 1,
+        "pest_details": [
+            "1"
+        ]
+    },
+    {
+        "timestamp": "2025-04-22 15:27:04",
+        "pest_count": 1,
+        "pest_details": [
+            "1"
+        ]
+    },
+    {
+        "timestamp": "2025-04-22 15:27:07",
+        "pest_count": 2,
+        "pest_details": [
+            "1",
+            "1"
+        ]
+    },
+    {
+        "timestamp": "2025-04-22 15:27:10",
+        "pest_count": 1,
+        "pest_details": [
+            "1"
+        ]
+    },
+    {
+        "timestamp": "2025-04-22 15:27:13",
+        "pest_count": 1,
+        "pest_details": [
+            "1"
+        ]
+    },
+    {
+        "timestamp": "2025-04-23 11:33:10",
+        "pest_count": 1,
+        "pest_details": [
+            "1"
+        ]
+    },
+    {
+        "timestamp": "2025-04-23 11:33:27",
+        "pest_count": 1,
+        "pest_details": [
+            "1"
+        ]
+    },
+    {
+        "timestamp": "2025-04-23 11:33:31",
+        "pest_count": 1,
+        "pest_details": [
+            "1"
+        ]
+    },
+    {
+        "timestamp": "2025-04-23 11:33:37",
+        "pest_count": 1,
+        "pest_details": [
+            "0"
+        ]
+    },
+    {
+        "timestamp": "2025-04-23 11:33:49",
+        "pest_count": 1,
+        "pest_details": [
+            "3"
+        ]
+    },
+    {
+        "timestamp": "2025-04-23 13:46:13",
+        "pest_count": 1,
+        "pest_details": [
+            "3"
+        ]
+    },
+    {
+        "timestamp": "2025-04-23 13:46:17",
+        "pest_count": 1,
+        "pest_details": [
+            "3"
+        ]
+    },
+    {
+        "timestamp": "2025-04-23 13:46:23",
+        "pest_count": 1,
+        "pest_details": [
+            "1"
+        ]
+    },
+    {
+        "timestamp": "2025-04-23 13:48:40",
+        "pest_count": 1,
+        "pest_details": [
+            "2"
+        ]
+    },
+    {
+        "timestamp": "2025-04-23 13:48:43",
+        "pest_count": 1,
+        "pest_details": [
+            "c"
+        ]
+    },
+    {
+        "timestamp": "2025-04-23 13:48:46",
+        "pest_count": 1,
+        "pest_details": [
+            "1"
+        ]
+    },
+    {
+        "timestamp": "2025-04-23 13:49:00",
+        "pest_count": 1,
+        "pest_details": [
+            "1"
+        ]
+    },
+    {
+        "timestamp": "2025-04-23 13:49:09",
+        "pest_count": 1,
+        "pest_details": [
+            "1"
+        ]
+    },
+    {
+        "timestamp": "2025-04-23 13:49:21",
+        "pest_count": 1,
+        "pest_details": [
+            "1"
+        ]
+    },
+    {
+        "timestamp": "2025-04-23 13:50:05",
+        "pest_count": 1,
+        "pest_details": [
+            "a"
+        ]
+    },
+    {
+        "timestamp": "2025-04-23 13:50:24",
+        "pest_count": 1,
+        "pest_details": [
+            "a"
+        ]
+    },
+    {
+        "timestamp": "2025-04-23 13:50:27",
+        "pest_count": 1,
+        "pest_details": [
+            "2"
+        ]
+    },
+    {
+        "timestamp": "2025-04-23 13:50:30",
+        "pest_count": 1,
+        "pest_details": [
+            "2"
+        ]
+    },
+    {
+        "timestamp": "2025-04-23 13:50:34",
+        "pest_count": 1,
+        "pest_details": [
+            "2"
+        ]
+    },
+    {
+        "timestamp": "2025-04-23 13:50:37",
+        "pest_count": 2,
+        "pest_details": [
+            "2",
+            "2"
+        ]
+    },
+    {
+        "timestamp": "2025-04-23 13:50:40",
+        "pest_count": 1,
+        "pest_details": [
+            "2"
+        ]
+    },
+    {
+        "timestamp": "2025-04-23 13:50:43",
+        "pest_count": 2,
+        "pest_details": [
+            "2",
+            "2"
+        ]
+    },
+    {
+        "timestamp": "2025-04-23 13:50:50",
+        "pest_count": 1,
+        "pest_details": [
+            "2"
+        ]
+    },
+    {
+        "timestamp": "2025-04-23 13:50:53",
+        "pest_count": 1,
+        "pest_details": [
+            "2"
+        ]
+    },
+    {
+        "timestamp": "2025-04-23 13:50:59",
+        "pest_count": 1,
+        "pest_details": [
+            "3"
+        ]
+    },
+    {
+        "timestamp": "2025-04-23 13:51:03",
+        "pest_count": 1,
+        "pest_details": [
+            "2"
+        ]
+    },
+    {
+        "timestamp": "2025-04-23 13:51:07",
+        "pest_count": 1,
+        "pest_details": [
+            "2"
+        ]
+    },
+    {
+        "timestamp": "2025-04-23 13:51:12",
+        "pest_count": 1,
+        "pest_details": [
+            "1"
+        ]
+    },
+    {
+        "timestamp": "2025-04-23 13:51:16",
+        "pest_count": 1,
+        "pest_details": [
+            "2"
+        ]
+    },
+    {
+        "timestamp": "2025-04-23 13:51:19",
+        "pest_count": 1,
+        "pest_details": [
+            "0"
+        ]
+    },
+    {
+        "timestamp": "2025-04-23 13:51:25",
+        "pest_count": 1,
+        "pest_details": [
+            "0"
+        ]
+    },
+    {
+        "timestamp": "2025-04-23 13:51:28",
+        "pest_count": 1,
+        "pest_details": [
+            "a"
+        ]
+    },
+    {
+        "timestamp": "2025-04-23 13:51:31",
+        "pest_count": 1,
+        "pest_details": [
+            "a"
+        ]
+    },
+    {
+        "timestamp": "2025-04-23 13:51:35",
+        "pest_count": 1,
+        "pest_details": [
+            "2"
+        ]
+    },
+    {
+        "timestamp": "2025-04-23 13:51:44",
+        "pest_count": 1,
+        "pest_details": [
+            "a"
+        ]
+    },
+    {
+        "timestamp": "2025-04-23 13:51:48",
+        "pest_count": 1,
+        "pest_details": [
+            "1"
+        ]
+    },
+    {
+        "timestamp": "2025-04-23 13:51:53",
+        "pest_count": 1,
+        "pest_details": [
+            "2"
+        ]
+    },
+    {
+        "timestamp": "2025-04-23 13:51:56",
+        "pest_count": 1,
+        "pest_details": [
+            "2"
+        ]
+    },
+    {
+        "timestamp": "2025-04-23 13:51:59",
+        "pest_count": 1,
+        "pest_details": [
+            "2"
+        ]
+    },
+    {
+        "timestamp": "2025-04-23 13:52:06",
+        "pest_count": 1,
+        "pest_details": [
+            "2"
+        ]
+    },
+    {
+        "timestamp": "2025-04-23 13:52:09",
+        "pest_count": 1,
+        "pest_details": [
+            "2"
+        ]
+    },
+    {
+        "timestamp": "2025-04-23 13:52:12",
+        "pest_count": 1,
+        "pest_details": [
+            "2"
+        ]
+    },
+    {
+        "timestamp": "2025-04-23 13:52:22",
+        "pest_count": 1,
+        "pest_details": [
+            "3"
+        ]
+    },
+    {
+        "timestamp": "2025-04-23 13:53:10",
+        "pest_count": 1,
+        "pest_details": [
+            "a"
+        ]
+    },
+    {
+        "timestamp": "2025-04-23 13:53:13",
+        "pest_count": 1,
+        "pest_details": [
+            "1"
+        ]
+    },
+    {
+        "timestamp": "2025-04-23 13:53:16",
+        "pest_count": 1,
+        "pest_details": [
+            "a"
+        ]
+    },
+    {
+        "timestamp": "2025-04-23 13:53:21",
+        "pest_count": 2,
+        "pest_details": [
+            "a",
+            "a"
+        ]
+    },
+    {
+        "timestamp": "2025-04-23 13:53:25",
+        "pest_count": 1,
+        "pest_details": [
+            "3"
+        ]
+    },
+    {
+        "timestamp": "2025-04-23 13:53:29",
+        "pest_count": 1,
+        "pest_details": [
+            "3"
+        ]
+    },
+    {
+        "timestamp": "2025-04-23 13:53:32",
+        "pest_count": 1,
+        "pest_details": [
+            "a"
+        ]
+    },
+    {
+        "timestamp": "2025-04-23 13:53:35",
+        "pest_count": 2,
+        "pest_details": [
+            "a",
+            "a"
+        ]
+    },
+    {
+        "timestamp": "2025-04-23 13:53:39",
+        "pest_count": 1,
+        "pest_details": [
+            "1"
+        ]
+    },
+    {
+        "timestamp": "2025-04-23 13:53:52",
+        "pest_count": 1,
+        "pest_details": [
+            "2"
+        ]
+    },
+    {
+        "timestamp": "2025-04-23 13:53:55",
+        "pest_count": 1,
+        "pest_details": [
+            "b"
+        ]
+    },
+    {
+        "timestamp": "2025-04-23 13:53:59",
+        "pest_count": 1,
+        "pest_details": [
+            "a"
+        ]
+    },
+    {
+        "timestamp": "2025-04-23 13:54:03",
+        "pest_count": 1,
+        "pest_details": [
+            "a"
+        ]
+    },
+    {
+        "timestamp": "2025-04-23 13:54:06",
+        "pest_count": 1,
+        "pest_details": [
+            "1"
+        ]
+    },
+    {
+        "timestamp": "2025-04-23 13:54:11",
+        "pest_count": 1,
+        "pest_details": [
+            "1"
+        ]
+    },
+    {
+        "timestamp": "2025-04-23 13:54:14",
+        "pest_count": 1,
+        "pest_details": [
+            "1"
+        ]
+    },
+    {
+        "timestamp": "2025-04-23 13:54:17",
+        "pest_count": 1,
+        "pest_details": [
+            "1"
+        ]
+    },
+    {
+        "timestamp": "2025-04-23 13:54:21",
+        "pest_count": 1,
+        "pest_details": [
+            "2"
+        ]
+    },
+    {
+        "timestamp": "2025-04-23 13:54:25",
+        "pest_count": 1,
+        "pest_details": [
+            "1"
+        ]
+    },
+    {
+        "timestamp": "2025-04-23 13:54:33",
+        "pest_count": 1,
+        "pest_details": [
+            "a"
+        ]
+    },
+    {
+        "timestamp": "2025-04-23 13:54:37",
+        "pest_count": 1,
+        "pest_details": [
+            "1"
+        ]
+    },
+    {
+        "timestamp": "2025-04-23 13:54:42",
+        "pest_count": 1,
+        "pest_details": [
+            "2"
+        ]
+    },
+    {
+        "timestamp": "2025-04-23 13:54:47",
+        "pest_count": 2,
+        "pest_details": [
+            "a",
+            "a"
+        ]
+    },
+    {
+        "timestamp": "2025-04-23 13:54:50",
+        "pest_count": 1,
+        "pest_details": [
+            "a"
+        ]
+    },
+    {
+        "timestamp": "2025-04-23 13:54:53",
+        "pest_count": 1,
+        "pest_details": [
+            "a"
+        ]
+    },
+    {
+        "timestamp": "2025-04-23 13:54:57",
+        "pest_count": 1,
+        "pest_details": [
+            "a"
+        ]
+    },
+    {
+        "timestamp": "2025-04-23 13:55:02",
+        "pest_count": 1,
+        "pest_details": [
+            "1"
+        ]
+    },
+    {
+        "timestamp": "2025-04-23 13:55:07",
+        "pest_count": 1,
+        "pest_details": [
+            "a"
+        ]
+    },
+    {
+        "timestamp": "2025-04-23 13:55:10",
+        "pest_count": 1,
+        "pest_details": [
+            "1"
+        ]
+    },
+    {
+        "timestamp": "2025-04-23 13:55:14",
+        "pest_count": 1,
+        "pest_details": [
+            "1"
+        ]
+    },
+    {
+        "timestamp": "2025-04-23 13:55:17",
+        "pest_count": 2,
+        "pest_details": [
+            "a",
+            "a"
+        ]
+    },
+    {
+        "timestamp": "2025-04-23 13:55:21",
+        "pest_count": 1,
+        "pest_details": [
+            "a"
+        ]
+    },
+    {
+        "timestamp": "2025-04-23 13:55:24",
+        "pest_count": 1,
+        "pest_details": [
+            "a"
+        ]
+    },
+    {
+        "timestamp": "2025-04-23 13:55:28",
+        "pest_count": 2,
+        "pest_details": [
+            "1",
+            "1"
+        ]
+    },
+    {
+        "timestamp": "2025-04-23 13:55:31",
+        "pest_count": 1,
+        "pest_details": [
+            "1"
+        ]
+    },
+    {
+        "timestamp": "2025-04-23 13:55:34",
+        "pest_count": 2,
+        "pest_details": [
+            "1",
+            "a"
+        ]
+    },
+    {
+        "timestamp": "2025-04-23 13:55:37",
+        "pest_count": 1,
+        "pest_details": [
+            "a"
+        ]
+    },
+    {
+        "timestamp": "2025-04-23 13:55:40",
+        "pest_count": 1,
+        "pest_details": [
+            "a"
+        ]
+    },
+    {
+        "timestamp": "2025-04-23 13:55:43",
+        "pest_count": 1,
+        "pest_details": [
+            "a"
+        ]
+    },
+    {
+        "timestamp": "2025-04-23 13:55:49",
+        "pest_count": 1,
+        "pest_details": [
+            "1"
+        ]
+    },
+    {
+        "timestamp": "2025-04-23 13:55:52",
+        "pest_count": 1,
+        "pest_details": [
+            "a"
+        ]
+    },
+    {
+        "timestamp": "2025-04-23 13:55:55",
+        "pest_count": 1,
+        "pest_details": [
+            "a"
+        ]
+    },
+    {
+        "timestamp": "2025-04-23 13:55:59",
+        "pest_count": 1,
+        "pest_details": [
+            "a"
+        ]
+    },
+    {
+        "timestamp": "2025-04-23 13:56:05",
+        "pest_count": 1,
+        "pest_details": [
+            "3"
+        ]
+    },
+    {
+        "timestamp": "2025-04-23 13:56:09",
+        "pest_count": 1,
+        "pest_details": [
+            "1"
+        ]
+    },
+    {
+        "timestamp": "2025-04-23 13:56:12",
+        "pest_count": 1,
+        "pest_details": [
+            "a"
+        ]
+    },
+    {
+        "timestamp": "2025-04-23 13:56:17",
+        "pest_count": 1,
+        "pest_details": [
+            "2"
+        ]
+    },
+    {
+        "timestamp": "2025-04-23 13:56:23",
+        "pest_count": 1,
+        "pest_details": [
+            "1"
+        ]
+    },
+    {
+        "timestamp": "2025-04-23 13:56:30",
+        "pest_count": 1,
+        "pest_details": [
+            "1"
+        ]
+    }
+]
